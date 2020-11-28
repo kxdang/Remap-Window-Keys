@@ -5,7 +5,7 @@ All credit goes to [grismar](http://www.grismar.net/ventrilocapsfix/). This repo
 Please note:
 I take no responsibility for any problems you may experience. Please use this at your own risk. These registry files are meant for Window machines only. Use at your own risk.
 
-I have successfully remapped my Caps Lock key to F13 which has always been my PTT button. Now with it being to F13, I no longer have to worry about the caps lock actually activating.
+I have successfully remapped my Caps Lock key to F13 using grismar's reg files. Now with it being to F13, I no longer have to worry about the caps lock actually activating.
 
 
 ## How to use these files
